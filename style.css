@@ -1,0 +1,11 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 50px;
+    border-radius: 20px;
+    background-color: orange;
+}
